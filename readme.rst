@@ -34,3 +34,6 @@ This material includes the df's used in the paper for all scenarios: main, onoff
 When downloading from github, first include the contents from **data_folders.zip** into the same folder containing the scripts.
 
 The file **spec-file.txt** contains all the information about the conda environment that hosted this project.
+
+
+This project was supported by the Leverhulme Trust through Research Project Grant **\# RPG-2022-114**.
