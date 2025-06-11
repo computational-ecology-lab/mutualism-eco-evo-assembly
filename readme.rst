@@ -31,4 +31,6 @@ To change any variable, follow the comments explaining what they are. Be sure to
 
 This material includes the df's used in the paper for all scenarios: main, onoff,and mixed. Therefore, it is possible to run only scripts #3 and #4 to reproduce the same analyses used in the paper. If you run #1 + #2 for new simulations of these scenarios, the original df's will be overwritten. (these df's are larger files not included in the github repository, only in zenodo:  https://doi.org/10.5281/zenodo.15439137)
 
+When downloading from github, first include the contents from **data_folders.zip** into the same folder containing the scripts.
+
 The file **spec-file.txt** contains all the information about the conda environment that hosted this project.
