@@ -6,6 +6,8 @@ by Gui Araujo & Miguel Lurgi
 
 Published in **PLoS Computational Biology** (2025), 21(9): e1013402. https://doi.org/10.1371/journal.pcbi.1013402
 
+Files included in this repository, and corresponding description:
+
 **#1. fevomodelM:**
 Run this code to simulate the model and save the generated community.
 
@@ -43,6 +45,7 @@ The file **spec-file.txt** contains all the information about the conda environm
 
 
 This project was supported by the Leverhulme Trust through Research Project Grant **\# RPG-2022-114**.
+
 
 
 
